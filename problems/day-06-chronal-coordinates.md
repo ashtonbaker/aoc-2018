@@ -40,15 +40,15 @@ This view is partial - the actual grid extends infinitely in all directions. Usi
 
 ```
 aaaaa.cccc
-a*A*aaa.cccc
+aAaaa.cccc
 aaaddecccc
-aadddecc*C*c
-..d*D*deeccc
-bb.de*E*eecc
-b*B*b.eeee..
+aadddeccCc
+..dDdeeccc
+bb.deEeecc
+bBb.eeee..
 bbb.eeefff
 bbb.eeffff
-bbb.ffff*F*f
+bbb.ffffFf
 ```
 
 Locations shown as `.` are equally far from two or more coordinates, and so they don't count as being closest to any.
