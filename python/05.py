@@ -20,7 +20,7 @@ def part_1(s):
     print(len(tokens))
 
 def part_2(s):
-    tokens = get_tokens(s)
+    tokens = process_tokens(get_tokens(s))
 
     unique_types = set([t["type"] for t in tokens])
 
